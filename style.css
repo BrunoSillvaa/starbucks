@@ -46,7 +46,6 @@ body header nav ul li a {
 }
 body main {
   height: 100%;
-  max-width: 192rem;
   display: grid;
   grid-template-columns: auto 1fr auto;
   grid-template-rows: 1fr;
