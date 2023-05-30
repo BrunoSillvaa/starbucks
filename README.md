@@ -1,5 +1,5 @@
-<h1 align='center'>Starbuks</h1>
-<img style="border-radius:14px" src='./assets/screenshot.png' />
+<h1 align='center'>Starbucks</h1>
+<img src='./assets/screenshot.png' width='100%' align='center' style='border-radius: 10px'/>
 <h1 align='center'>Tecnologias utilizadas</h1>
 <div align="center" >
     <img height="50" src="https://img.shields.io/badge/HTML5-rgba(0, 0, 0, 0)?style=for-the-badge&logo=html5&logoColor=E34F26&">
